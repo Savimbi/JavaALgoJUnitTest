@@ -11,7 +11,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.junit.jupiter.api.Assertions.*;
 
 
-class MainTest {
+class StackTest {
 
     @Test
     void useOfStack() {
